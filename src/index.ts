@@ -42,5 +42,6 @@ export {
   timings,
   fonts,
   variants,
+  unknown,
   feedbackTypes,
 };
