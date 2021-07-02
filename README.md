@@ -2,7 +2,8 @@
 
 <div align='center'>The only open-source UI library that's made to be remade</div>
 
-## Intro
+## Introduction
+## And another new line
 
 Foundry-UI (or Foundry for short) is a great choice for your next software project's user interface (UI), because Foundry was created to:
 
